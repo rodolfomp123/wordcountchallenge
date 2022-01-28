@@ -10,4 +10,6 @@ Before you start, make sure you've met the following requirements:
 
 To install/use the Word Counter, follow these steps:
 
-1. Run the "index.html" file with your Browser of choice.
+1. Download the project in a zip format.
+2. Unpack the zip file.
+3. Run the "index.html" file with your Browser of choice.
